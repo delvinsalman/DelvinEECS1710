@@ -1,5 +1,3 @@
-# Delvin-s-Repository-
-
 Note,
 
 //For the final project, please note that majority of the key button are used to play the sounds.
