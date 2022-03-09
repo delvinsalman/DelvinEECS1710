@@ -1,7 +1,7 @@
 ## Final Project 
 
 
-## Note 
+## Note: 
 
 - `For the final project, please note that majority of the key button are used to play the sounds.`
 - `You can use any letter from "A-Z" to play a different sound each time that outputs a higher frequency depending on the letter.`
